@@ -5,6 +5,11 @@ namespace CreationalPatterns.Singleton
 {
     public class Program
     {
+        /// <summary>
+        /// Singleton is a creational design pattern,
+        /// which ensures that only one object of its kind exists and provides a single point of access to it for any other code.
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             Console.WriteLine("CreationalPatterns.Singleton");
