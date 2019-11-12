@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace BehavioralPatterns.Iterator.Iterators
+namespace BehavioralPatterns.Iterator.Models
 {
     /// <summary>
     /// Customized Collections should inherit this Abstract IteratorAggregate
